@@ -15,4 +15,4 @@ https://colab.research.google.com/github/superbnoo/gpt2-text-summary/blob/main/d
 
 [1] Blog [Generating Text Summaries Using GPT-2 on PyTorch with Minimal Training](https://blog.paperspace.com/generating-text-summaries-gpt-2/).
 
-[2] Code in this repo is adapted from repo [https://github.com/SKRohit/Generating_Text_Summary_With_GPT2], and huggingface tweet demo repo [https://github.com/borisdayma/huggingtweets]
+[2] Code in this repo is adapted from repo [https://github.com/SKRohit/Generating_Text_Summary_With_GPT2]
